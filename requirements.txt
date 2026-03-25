@@ -1,0 +1,61 @@
+# LLM & API
+groq>=0.9.0
+anthropic>=0.30.0
+
+# LangChain
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-groq>=0.1.6
+
+# Vector Stores
+faiss-cpu>=1.8.0
+chromadb>=0.5.0
+
+# Embeddings
+sentence-transformers>=3.0.0
+
+# Ranking
+rank-bm25>=0.2.2
+
+# Evaluation (RAGAS-style)
+ragas>=0.1.10
+datasets>=2.20.0
+
+# Structured Outputs
+pydantic>=2.7.0
+
+# Async
+asyncio-pool>=0.6.0
+aiohttp>=3.9.0
+
+# Observability / Logging
+structlog>=24.2.0
+python-json-logger>=2.0.7
+
+# Utilities
+python-dotenv>=1.0.0
+numpy>=1.26.0
+tiktoken>=0.7.0
+tenacity>=8.3.0
+cachetools>=5.3.0
+
+# Dev
+pytest>=8.2.0
+pytest-asyncio>=0.23.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+ 
+# Vector stores
+faiss-cpu>=1.7.4          # Use faiss-gpu if CUDA is available
+chromadb>=0.4.0
+ 
+# Embeddings
+sentence-transformers>=2.2.2
+torch>=2.0.0              # Required by sentence-transformers
+ 
+langchain-classic
+
+streamlit
+typing
+pypdf

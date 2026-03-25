@@ -1,0 +1,4 @@
+{"timestamp": "2026-03-25T02:42:16.581892", "config_snapshot": {"top_k_semantic": 23, "top_k_keyword": 23, "ranking_threshold": 6.0, "min_confidence": 0.7}, "category": "retrieval_error", "query_id": "b8daaf07", "top_k_semantic": "20 \u2192 23"}
+{"timestamp": "2026-03-25T03:05:53.801675", "config_snapshot": {"top_k_semantic": 20, "top_k_keyword": 20, "ranking_threshold": 6.0, "min_confidence": 0.7}, "category": "vague_query", "query_id": "ui_session", "action": "log_only"}
+{"timestamp": "2026-03-25T05:35:00.292671", "config_snapshot": {"top_k_semantic": 20, "top_k_keyword": 20, "ranking_threshold": 5.5, "min_confidence": 0.7}, "category": "ranking_error", "query_id": "468f06df", "ranking_threshold": "6.0 \u2192 5.5"}
+{"timestamp": "2026-03-25T05:47:24.310414", "config_snapshot": {"top_k_semantic": 20, "top_k_keyword": 20, "ranking_threshold": 5.5, "min_confidence": 0.7}, "category": "ranking_error", "query_id": "713608e2", "ranking_threshold": "6.0 \u2192 5.5"}
